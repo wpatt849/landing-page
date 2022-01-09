@@ -1,1 +1,2 @@
-# landing-page
+This will be my attempt to create a landing page using the knowledge I acquired in the previous lessons. Most importantly, I will tinker with this project to improve my skills with Flexbox. 
+Images are created by https://pixabay.com/users/der_sharan-9891484/.
